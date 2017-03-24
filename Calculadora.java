@@ -21,7 +21,7 @@ public class Calculadora extends JFrame implements ActionListener {
     double temp1;
     double temp2;
     JTextArea pantalla = new JTextArea(1,21);
-    
+    //by Ark  
     Calculadora() {
         super("Calculadora");
         setDefaultCloseOperation(EXIT_ON_CLOSE);
