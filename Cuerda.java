@@ -10,7 +10,7 @@ import java.awt.geom.Line2D;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.swing.Timer;
-
+//by Ark
 public class Cuerda extends JFrame{
     private Timer timer;
     private int iniX,iniY,cont;
